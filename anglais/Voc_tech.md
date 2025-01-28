@@ -1,4 +1,4 @@
-# Résumé du Vocabulaire
+# Résumé du Vocabulaire d'anglais Technologique
 
 ## Réseaux et Internet
 - **Bit rate** : Quantité de bits pouvant être transférée dans un temps donné.  
